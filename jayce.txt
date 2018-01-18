@@ -1,0 +1,10 @@
+turnTo 360 2
+turnTo 180 1
+moveTo 600 500 2
+play
+turnTo 710 3
+moveTo 112 711 2
+turnTo 412 3
+moveTo 428 682 3
+turnTo 1938 5
+moveTo 400 600 1
